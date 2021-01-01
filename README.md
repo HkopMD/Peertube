@@ -8,3 +8,4 @@ No porn or sexually videos
 
 Primarily English
 
+Nothing racist just to be racist

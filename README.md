@@ -2,9 +2,9 @@
 
 **What is a good peertube instances** 
 
-Marked copyright videos
+Marked copyright videos(If it is more than 3 it is not on the list)
 
 No porn or sexually videos
 
-No really weird videos
+Primarily English
 

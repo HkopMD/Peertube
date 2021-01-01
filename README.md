@@ -11,4 +11,6 @@ Primarily English
 Nothing racist just to be racist
 
 
-**List: https://github.com/HkopMD/Peertube/blob/main/Good-peertube.csv**
+**List: github.com/HkopMD/Peertube/blob/main/Good-peertube.csv**
+
+**Do you want to add a instances dislack.com/f/5fef4fe77774856edfd74385**

@@ -2,7 +2,7 @@
 
 **What is a good peertube instances** 
 
-No copyright videos
+Marked copyright videos
 
 No porn or sexually videos
 

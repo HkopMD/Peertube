@@ -11,4 +11,4 @@ Primarily English
 Nothing racist just to be racist
 
 
-**List https://github.com/HkopMD/Peertube/blob/main/Good-peertube.csv**
+**List: https://github.com/HkopMD/Peertube/blob/main/Good-peertube.csv**
